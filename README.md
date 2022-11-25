@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision, Deep Learning, and all about Image Processing.
 - 🌱 I’m currently learni
 - 💞️ I’m looking to collaborate on interesting projects in above topics.
-- 📫 How to reach me: Webpage: https://kuldeeppurohit.github.io/, Linkedin, Email: kuldeeppurohit3@gmail.com
+- 📫 How to reach me: Email: kuldeeppurohit3@gmail.com, Webpage: https://kuldeeppurohit.github.io/, Linkedin: https://www.linkedin.com/in/kuldeeppurohit3/ 
 
 
 <!---
