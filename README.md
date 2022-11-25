@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kuldeep Purohit
+- 👋 Hi, I’m Kuldeep Purohit, an AI Research Scientist working in Computer Vision and Deep Learning at Phiar Technologies.
 - 👀 I’m interested in Computer Vision, Deep Learning, and all about Image Processing.
 - 🌱 I’m currently learni
 - 💞️ I’m looking to collaborate on interesting projects in above topics.
