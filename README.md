@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kuldeep Purohit, an AI Research Scientist working in Computer Vision and Deep Learning at Phiar Technologies, California, USA.
+- 👋 Hi, I’m Kuldeep Purohit, AI Research Engineer @ Google (California, USA), working in Computer Vision and Deep Learning. Earlier: AI Research Scientist @ Phiar Technologies.
 - 👀 I’m interested in Computer Vision, Deep Learning, and everything about Image Processing.
 - 💞️ I’m looking to collaborate on interesting projects in above topics.
 - 📫 How to reach me: Email: kuldeeppurohit3@gmail.com, Webpage: https://kuldeeppurohit.github.io/, Linkedin: https://www.linkedin.com/in/kuldeeppurohit3/ 
